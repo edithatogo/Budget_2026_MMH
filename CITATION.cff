@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this repository's compilation or analysis, please cite it using
+  these metadata and identify the commit used. Cite the original source documents
+  separately.
+title: 'Budget_2026_MMH: Assessment of NZ Budget 2026'
+authors:
+- name: Budget_2026_MMH project
+repository-code: https://github.com/edithatogo/Budget_2026_MMH
+url: https://github.com/edithatogo/Budget_2026_MMH
+preferred-citation:
+  type: generic
+  title: 'Budget_2026_MMH: Assessment of NZ Budget 2026'
+  authors:
+  - name: Budget_2026_MMH project
+  url: https://github.com/edithatogo/Budget_2026_MMH
